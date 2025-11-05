@@ -57,6 +57,6 @@ I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experien
 
 ## 📧 Connect with Me
 
-* **LinkedIn**: [mohammad-reza.gerami]([https://www.linkedin.com/in/mohammad-reza-gerami-a299951](https://www.linkedin.com/in/mohammad-reza-gerami/))
+* **LinkedIn**: [mohammad-reza.gerami]([(https://www.linkedin.com/in/mohammad-reza-gerami/)])
 * [cite_start]**Email**: mr.gerami@gmail.com 
 * [cite_start]**Location**: Canada [cite: 3]
