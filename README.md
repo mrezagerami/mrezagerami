@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Reza (Arya) Gerami! 👋
 
-I am a **Cybersecurity Engineer** and **SOC Analyst** with 7+ years of experience, currently a PhD Candidate in Computer Engineering at Polytechnique Montréal. My core expertise is in designing robust security architectures, implementing Next-Gen SIEM systems, and utilizing Machine Learning for advanced anomaly detection.
+I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experience, currently a PhD Candidate in Computer Engineering at Polytechnique Montréal. My core expertise is in designing robust security architectures, implementing Next-Gen SIEM systems, and utilizing Machine Learning for advanced anomaly detection.
 
 ---
 
