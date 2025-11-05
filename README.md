@@ -25,6 +25,9 @@ I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experien
 
 ### Cybersecurity & SIEM
 <p>
+    "Network secure architecture design"
+    "System Administration"
+    "Vulnerability assessment and analysis"
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
     <img src="https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
@@ -36,7 +39,7 @@ I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experien
 <p>
     <img src="https://img.shields.io/badge/OpenStack-000000?style=for-the-badge&logo=openstack&logoColor=F0F0F0" alt="OpenStack"/>
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-    <img src="https://img.shields.io/badge/VMware_Horizon-D6192A?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Horizon"/>
+    <img src="https://img.shields.io/badge/VMware_Horizon-D6192A?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware and VMware Horizon"/>
     <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge" alt="CI/CD"/>
 </p>
 ---
