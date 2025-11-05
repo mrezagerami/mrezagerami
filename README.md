@@ -1,16 +1,16 @@
 # Hi, I'm Mohammad Reza (Arya) Gerami! 👋
 
-[cite_start]I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experience[cite: 5], currently a PhD Candidate in Computer Engineering at Polytechnique Montréal. My core expertise is in designing robust security architectures, implementing Next-Gen SIEM systems, and utilizing Machine Learning for advanced anomaly detection.
+I am a **Cybersecurity Engineer** and **SOC Analyst** with 7+ years of experience, currently a PhD Candidate in Computer Engineering at Polytechnique Montréal. My core expertise is in designing robust security architectures, implementing Next-Gen SIEM systems, and utilizing Machine Learning for advanced anomaly detection.
 
 ---
 
 ## 🚀 Key Expertise & Project Highlights
 
-* [cite_start]**Security Architecture & SIEM:** Expertise in designing secure networks and implementing SIEM systems (**Splunk ES, ELK**) for streamlined threat intelligence and response[cite: 16, 58, 59]. I have worked on projects like **Sysmon** and **Security** resources, and contributed to the private **cyberguard-guardian-suite** for threat mitigation.
-* [cite_start]**Anomaly Detection & AI/ML:** Utilizing Deep Learning for anomaly detection in specialized networks (**IoT/FANET** [cite: 17] - [cite_start]related to the **VANET** repo) and developing custom log analysis solutions (e.g., **Log-based-Anomaly-Detection**[cite: 18], **FL-DRL**).
-* [cite_start]**Cloud & DevOps Security:** Experienced with Cloud platform hardening (**OpenStack**), automation using **Python** and **Ansible** [cite: 29][cite_start], and monitoring tools like **Zabbix** and **SolarWinds**[cite: 30]. My work includes the private **cloud-watchman** and setting up **Hyperledger Fabric**.
-* [cite_start]**Network & System Administration:** Strong background in Network Design, SDN architecture (SDDC) [cite: 31][cite_start], and administration of large systems (**Linux**, **Windows**, **SQL Server**)[cite: 48, 56, 51].
-* [cite_start]**Vulnerability Assessment:** Hands-on experience with vulnerability assessment tools like **Nessus** and security analysis using **Altdns**[cite: 58].
+* **Security Architecture & SIEM:** Expertise in designing secure networks and implementing SIEM systems (**Splunk ES, ELK**) for streamlined threat intelligence and response. I have hands-on experience in **Network Design**, **Security Assessment**, and **Network/Web Application Penetration Testing**.
+* **Anomaly Detection & AI/ML:** Utilizing Deep Learning for anomaly detection in specialized networks (**IoT/FANET** - related to the **VANET** repo) and developing custom log analysis solutions (e.g., **Log-based-Anomaly-Detection**, **FL-DRL**).
+* **Advanced Cryptography:** Active interest and work on modern encryption, specifically **Post-Quantum Cryptography** (see **Post-Quantum-Cryptography** repo).
+* **Cloud & DevOps Security:** Experienced with Cloud platform hardening (**OpenStack**), automation using **Python** and **Ansible**, and monitoring tools like **Zabbix** and **SolarWinds**.
+* **System Administration & Analysis:** Strong background in the administration of large systems (**Linux**, **Windows**, **SQL Server**) and using vulnerability assessment tools like **Nessus** and security analysis tools like **Altdns**.
 
 ---
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
-### Security & Monitoring
+### Cybersecurity & SIEM
 <p>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk SIEM"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch ELK"/>
@@ -52,15 +52,15 @@
 
 ## 🎓 Education & Certifications
 
-* [cite_start]**PhD Candidate in Computer Engineering** - Polytechnique Montréal, Canada [cite: 73, 74, 75]
-* [cite_start]**PMP** (Project Management Professional) [cite: 70]
-* [cite_start]**Google Cybersecurity** & **IBM Data Science** Certifications [cite: 71]
-* [cite_start]**MCITP** (Microsoft Certified IT Professional) [cite: 70]
+* **PhD Candidate in Computer Engineering** - Polytechnique Montréal, Canada
+* **PMP** (Project Management Professional)
+* **Google Cybersecurity** & **IBM Data Science** Certifications
+* **MCITP** (Microsoft Certified IT Professional)
 
 ---
 
 ## 📧 Connect with Me
 
-* **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-reza-gerami)
-* [cite_start]**Email**: mr.gerami@gmail.com [cite: 4]
-* [cite_start]**Location**: Montreal, QC, Canada [cite: 3]
+* **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-reza-gerami-a29951)
+* **Email**: mr.gerami@gmail.com
+* **Location**: Montreal, QC, Canada
