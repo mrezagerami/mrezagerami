@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Reza (Arya) Gerami! 👋
 
-I am a **Cybersecurity Engineer** and **SOC Analyst** with 7+ years of experience, currently a PhD Candidate in Computer Engineering. [cite_start]My expertise lies in designing robust security architectures and implementing Next-Gen SIEM systems to safeguard networks against threats. [cite: 1, 2, 5, 6, 7]
+I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experience, currently a PhD Candidate in Computer Engineering. [cite_start]My expertise lies in designing robust security architectures and implementing Next-Gen SIEM systems to safeguard networks against threats. [cite: 1, 2, 5, 6, 7]
 
 ---
 
@@ -57,6 +57,6 @@ I am a **Cybersecurity Engineer** and **SOC Analyst** with 7+ years of experienc
 
 ## 📧 Connect with Me
 
-* **LinkedIn**: [mohammad-reza.gerami-a299951](https://www.linkedin.com/in/mohammad-reza-gerami-a299951)
+* **LinkedIn**: [mohammad-reza.gerami]([https://www.linkedin.com/in/mohammad-reza-gerami-a299951](https://www.linkedin.com/in/mohammad-reza-gerami/))
 * [cite_start]**Email**: mr.gerami@gmail.com 
-* [cite_start]**Location**: Montreal, QC, Canada [cite: 3]
+* [cite_start]**Location**: Canada [cite: 3]
