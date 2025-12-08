@@ -46,7 +46,7 @@ I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experien
 
 ## 📈 GitHub Stats
 
-[![Mohammad Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrezagerami&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrezagerami?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
