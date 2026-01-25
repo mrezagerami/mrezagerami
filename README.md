@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Reza (Ariya) Gerami! 👋
+# Hi, I'm Ariya (Mohammad Reza) Gerami! 👋
 
 I am the **Founder of Quantum Guard Bridge (QGB)** and a **PhD Researcher** in Cybersecurity at Polytechnique Montréal.
 
