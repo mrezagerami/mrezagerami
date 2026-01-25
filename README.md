@@ -1,45 +1,53 @@
 # Hi, I'm Mohammad Reza (Arya) Gerami! 👋
 
-I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experience, currently a PhD Candidate in Computer Engineering at Polytechnique Montréal. My core expertise is in designing robust security architectures, implementing Next-Gen SIEM systems, and utilizing Machine Learning for advanced anomaly detection.
+I am the **Founder of Quantum Guard Bridge (QGB)** and a **PhD Researcher** in Cybersecurity at Polytechnique Montréal.
+
+With over 15 years of experience in network security and SOC architecture, my current focus is on the cutting edge of **Post-Quantum Cryptography (PQC)** and **Automated DevSecOps**. I bridge the gap between theoretical NIST standards and practical, hybrid cryptographic implementations for modern infrastructures.
 
 ---
 
-## 🚀 Key Expertise & Project Highlights
+## 🚀 Current Focus & Innovations
 
-* **Security Architecture & SIEM:** Expertise in designing secure networks and implementing SIEM systems (**Splunk ES, ELK**) for streamlined threat intelligence and response. I have hands-on experience in **Network Design**, **Security Assessment**, and **Network/Web Application Penetration Testing**.
-* **Anomaly Detection & AI/ML:** Utilizing Deep Learning for anomaly detection in specialized networks (**IoT/FANET** - related to the **VANET** repo) and developing custom log analysis solutions (e.g., **Log-based-Anomaly-Detection**, **FL-DRL**).
-* **Advanced Cryptography:** Active interest and work on modern encryption, specifically **Post-Quantum Cryptography** (see **Post-Quantum-Cryptography** repo).
-* **Cloud & DevOps Security:** Experienced with Cloud platform hardening (**OpenStack**), automation using **Python** and **Ansible**, and monitoring tools like **Zabbix** and **SolarWinds**.
-* **System Administration & Analysis:** Strong background in the administration of large systems (**Linux**, **Windows**, **SQL Server**) and using vulnerability assessment tools like **Nessus** and security analysis tools like **Altdns**.
+* ⚛️ **Founder @ Quantum Guard Bridge:** Leading the development of an automated, hybrid cryptography management platform to help organizations transition seamlessly to quantum-safe standards.
+* 🏆 **Award Winner:** Secured 1st place in the **Propolys Cybersecurity Innovation Competition** (2025) and selected for the Propolys Entrepreneurship Program.
+* 🛸 **PhD Research (UAV/Drone Security):** Designing special-purpose cryptographic protocols for **Internet of Drones (IoD)** and **FANETs**, securing swarm communications against quantum threats.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Key Expertise
+
+* **Post-Quantum Migration:** Implementing Hybrid Cryptography schemes (Classical + PQC) to secure data against "Store Now, Decrypt Later" attacks.
+* **Security Architecture & SIEM:** Designing resilient architectures and Next-Gen SIEM systems (**Splunk ES, ELK**) that reduce incident resolution time by 20%+.
+* **DevSecOps & Automation:** Automating security pipelines using **Ansible**, **Python**, and **CI/CD** tools to integrate security directly into the development lifecycle.
+* **Anomaly Detection:** Utilizing **Machine Learning (GANs, FL-DRL)** for advanced anomaly detection in IoT and cloud environments.
+
+---
+
+## 💻 Tech Stack & Tools
 
 ### Languages & Scripting
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
-### Cybersecurity & SIEM
+### Cryptography & Security
 <p>
-    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk SIEM"/>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch ELK"/>
-    <img src="https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus VA"/>
-    <img src="https://img.shields.io/badge/Cisco_ASA-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA Firewall"/>
-    <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix Monitoring"/>
-    <img src="https://img.shields.io/badge/Windows_Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Sysmon"/>
+    <img src="https://img.shields.io/badge/Post--Quantum_Crypto-000000?style=for-the-badge&logo=lock&logoColor=white" alt="PQC"/>
+    <img src="https://img.shields.io/badge/NIST_Standards-003366?style=for-the-badge&logo=nist&logoColor=white" alt="NIST"/>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+    <img src="https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
 </p>
 
-### Cloud & Virtualization
+### Cloud, Network & DevOps
 <p>
-    <img src="https://img.shields.io/badge/OpenStack-000000?style=for-the-badge&logo=openstack&logoColor=F0F0F0" alt="OpenStack Cloud"/>
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-    <img src="https://img.shields.io/badge/VMware-D6192A?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Horizon VDI"/>
-    <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/OpenStack-000000?style=for-the-badge&logo=openstack&logoColor=F0F0F0" alt="OpenStack"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
 ---
@@ -50,17 +58,14 @@ I am a **Cybersecurity Engineer** and **SOC Analyst** with 15+ years of experien
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-* **PhD Candidate in Computer Engineering** - Polytechnique Montréal, Canada
-* **PMP** (Project Management Professional)
-* **Google Cybersecurity** & **IBM Data Science** Certifications
-* **MCITP** (Microsoft Certified IT Professional)
+* [cite_start]**PhD Candidate in Computer Engineering (Cybersecurity)** - Polytechnique Montréal
+* [cite_start]**M.Sc. in Computer Networks** - Amirkabir University of Technology
 
 ---
 
 ## 📧 Connect with Me
 
-* **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-reza-gerami-a29951)
-* **Email**: mr.gerami@gmail.com
-* **Location**: Montreal, QC, Canada
+* **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-reza-gerami)
+* **Meeting**: [َMake an Appointment](https://calendly.com/mr-gerami/30min)
