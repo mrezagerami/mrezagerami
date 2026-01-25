@@ -60,8 +60,8 @@ With over 15 years of experience in network security and SOC architecture, my cu
 
 ## 🎓 Education
 
-* [cite_start]**PhD Candidate in Computer Engineering (Cybersecurity)** - Polytechnique Montréal
-* [cite_start]**M.Sc. in Computer Networks** - Amirkabir University of Technology
+* **PhD Candidate in Computer Engineering (Cybersecurity)** - Polytechnique Montréal
+* **M.Sc. in Computer Networks** - Amirkabir University of Technology
 
 ---
 
