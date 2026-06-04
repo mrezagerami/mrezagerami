@@ -68,4 +68,4 @@ With over 15 years of experience in network security and SOC architecture, my cu
 ## 📧 Connect with Me
 
 * **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-reza-gerami)
-* **Meeting**: [Make an Appointment](https://calendly.com/mr-gerami/30min)
+* **Meeting**: [Make an Appointment](https://calendly.com/mr-gerami/30-minute-meeting)
