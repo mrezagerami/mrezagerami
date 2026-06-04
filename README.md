@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Reza (Arya) Gerami! 👋
 
-I am the **Founder of Quantum Guard Bridge (QGB)** and a **PhD Researcher** in Cybersecurity at Polytechnique Montréal.
+I am the **Cybersecurity engineer**, **Founder of Quantum Guard Bridge (QGB)** and a **PhD Researcher** in Cybersecurity at Polytechnique Montréal.
 
 With over 15 years of experience in network security and SOC architecture, my current focus is on the cutting edge of **Post-Quantum Cryptography (PQC)** and **Automated DevSecOps**. I bridge the gap between theoretical NIST standards and practical, hybrid cryptographic implementations for modern infrastructures.
 
