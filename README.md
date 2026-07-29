@@ -66,7 +66,7 @@ With over 15 years of experience in network security and SOC architecture, my cu
 ---
 
 ## 📧 Connect with Me
-* **Youtube Channel*: [Youtube](https://youtube.com/@mohammadrezagerami2634?si=jS1oAq5mHlhARHmD)
+* **Youtube Channel**: [Youtube](https://youtube.com/@mohammadrezagerami2634?si=jS1oAq5mHlhARHmD)
 * **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-reza-gerami)
 * **Meeting**: [Make an Appointment](https://calendly.com/mr-gerami/30-minute-meeting)
 
